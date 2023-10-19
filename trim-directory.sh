@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 # Set the target directory and the maximum size in GiB
 target_dir="/path/to/your/target/directory"
